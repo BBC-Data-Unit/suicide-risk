@@ -11,6 +11,8 @@ In March 2017 we [reported](http://www.bbc.co.uk/news/uk-england-39303187) on ne
 * [Suicide by occupation: England, main data tables (XLS) - local copy](https://github.com/BBC-Data-Unit/suicide-risk/blob/master/Suicide%20by%20occupation%20England%2C%20main%20data%20tables.xls)
 * [CSV: Suicides by occupation](https://github.com/BBC-Data-Unit/suicide-risk/blob/master/suicides_by_occupation.csv) - **see notes on XLS version, sheet 4**
 
+> "*The standardised mortality ratio (SMR) is a common measure of mortality. When the value is greater than 100, the risk of suicide is higher than that in the broader population of England. When the value is less than 100, the risk of suicide is lower than that in the broader population. Please note, findings based on the SMR cannot be used to infer causality.*"				
+
 ## Visualisation
 
 * Bar chart: Male suicides by profession 2011-2015
