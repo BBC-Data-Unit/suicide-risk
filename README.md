@@ -7,6 +7,9 @@ In March 2017 we [reported](http://www.bbc.co.uk/news/uk-england-39303187) on ne
 ## Get the data
 
 * ONS: [Suicide by occupation, England: 2011 to 2015](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/suicidebyoccupation/england2011to2015)
+* ONS: [Suicide by occupation: England, main data tables (XLS)](https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/suicidebyoccupationenglandmaindatatables/2011to2015/dataforthecommentary.xls)
+* [Suicide by occupation: England, main data tables (XLS) - local copy](https://github.com/BBC-Data-Unit/suicide-risk/blob/master/Suicide%20by%20occupation%20England%2C%20main%20data%20tables.xls)
+* [CSV: Suicides by occupation](https://github.com/BBC-Data-Unit/suicide-risk/blob/master/suicides_by_occupation.csv) - **see notes on XLS version, sheet 4**
 
 ## Visualisation
 
